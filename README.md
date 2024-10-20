@@ -8,6 +8,17 @@ A general purpose Arduino score tracker that uses an IR remote to keep track of 
 ## Demo
 Coming soon...
 
+## Components
+|Component| Function|
+|---------|---------|
+|Arduino UNO R3|Microcontroller|
+|LCD1602 Module (with pin header)|Displays Score|
+|Remote Control|Send commands to the microcontroller|
+|IR Receiver Module|Recieves commands from remote|
+|Passive Buzzer|Buzzes when game begins/ends/updates|
+|Green LED|Flashes when game begins/ends/updates|
+|1kΩ Resistor|In series with LED to limit current|
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
