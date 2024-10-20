@@ -1,4 +1,4 @@
-![Logo](https://github.com/user-attachments/assets/feff5e08-c721-4426-8c59-6b5cf8fda854)
+![Logo](https://github.com/user-attachments/assets/4cdb3e66-0bf5-4e4e-92b4-fc69b3fb4f57)
 
 A general purpose Arduino score tracker that uses an IR remote to keep track of scores on a LCD display.
 
