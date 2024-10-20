@@ -21,6 +21,23 @@ https://github.com/user-attachments/assets/2c63fc98-199b-4376-a7fb-062b0c539bf4
 |Green LED|Flashes when game begins/ends/updates|
 |1kΩ Resistor|In series with LED to limit current|
 
+## Help Menu
+|Command|Button|
+|-------|--------|
+|Help Menu|9|
+|Go Down|DOWN|
+|Go Up|UP|
+|Team 1 Scores|VOL+|
+|Team 1 Loses|PAUSE|
+|Team 2 Scores|FUNC/STOP|
+|Team 2 Loses|FAST FORWARD|
+|Play Game|FAST BACK|
+|Finish Game|VOL-|
+|Toggle Buzzer|EQ|
+|Toggle LED|ST/REPT|
+|Increment Contrast|8|
+|Decrement Contrast|7|
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
