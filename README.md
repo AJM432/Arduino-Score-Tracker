@@ -8,7 +8,28 @@ A general purpose Arduino score tracker that uses an IR remote to keep track of 
 ## Demo
 https://github.com/user-attachments/assets/2c63fc98-199b-4376-a7fb-062b0c539bf4
 
+## Usage
+To set this up, connect your components according to the pin mappings below and upload the code to your Arduino UNO using the Arduino IDE.
 
+### Pin Mappings
+|Part|Pin|
+|----|---|
+|LCD VSS|GND|
+|LCD VDD|+5V|
+|LCD V0|PIN 6|
+|LCD RS|PIN 7|
+|LCD RW|GND|
+|LCD E|PIN 8|
+|LCD D4|PIN 9|
+|LCD D5|PIN 10|
+|LCD D6|PIN 11|
+|LCD D7|PIN 12|
+|LCD A|+5V|
+|LCD K|GND|
+|LED|PIN 4|
+|1kΩ Resistor|In series with LED|
+|Passive Buzzer|PIN 2|
+|IR Receiver|PIN 5|
 
 ## Components
 |Part| Function|
