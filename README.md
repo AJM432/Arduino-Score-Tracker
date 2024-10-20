@@ -6,7 +6,9 @@ A general purpose Arduino score tracker that uses an IR remote to keep track of 
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## Demo
-Coming soon...
+https://github.com/user-attachments/assets/2c63fc98-199b-4376-a7fb-062b0c539bf4
+
+
 
 ## Components
 |Part| Function|
